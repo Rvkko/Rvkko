@@ -19,11 +19,15 @@ I'm an enthusiastic QA Analyst and aspiring developer crafting my path in the te
 
 🧰 Languages and Tools
 
-Languages: Python, HTML, CSS, JavaScript, MySQL, TypeScript
-Frameworks and Libraries: Selenium, Cypress, Pytest, React, Node.js, Angular
-Testing & QA Tools: LoadRunner, Jira, Postman, BrowserStack, Zephyr Scale
-Dev Tools: Git, Linux, GitLab CI/CD, VSCode
-Operating Systems: Windows, macOS, Linux
+**Languages:** Python, HTML, CSS, JavaScript, MySQL, TypeScript
+
+**Frameworks and Libraries:** Selenium, Cypress, Pytest, React, Node.js, Angular
+
+**Testing & QA Tools:** LoadRunner, Jira, Postman, BrowserStack, Zephyr Scale
+
+**Dev Tools:** Git, Linux, GitLab CI/CD, VSCode
+
+**Operating Systems:** Windows, macOS, Linux
 
 
 🔍 About Me
@@ -32,13 +36,13 @@ I’m currently transitioning from IT support to Quality Assurance with a focus 
 
 📈 Current Projects
 
-Weather.com User Account Automation: Automating user account processes for Weather.com using Selenium and Python.
-Galactic Shooter: A 2D space game developed in Python, featuring power-ups, scoreboards, and exciting gameplay mechanics.
-Shopify Automation: Enhancing e-commerce efficiency through automated login and product management tasks.
+**Weather:** User Account Automation: Automating user account processes for Weather.com using Selenium and Python.
+
+**Galactic Shooter:** A 2D space game developed in Python, featuring power-ups, scoreboards, and exciting gameplay mechanics.
+
+**Shopify Automation:** Enhancing e-commerce efficiency through automated login and product management tasks.
 
 
 📝 Latest Blog Posts
 
-Transitioning to Quality Assurance from IT Support
-Breaking into QA Automation: Tips and Tools
-Best Practices for Functional and Regression Testing
+...
