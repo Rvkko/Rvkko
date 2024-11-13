@@ -2,7 +2,7 @@
 
 👀 I’m interested in Quality Assurance, Automation, and Game Development.
 
-🌱 I’m currently learning advanced automation techniques in Python and expanding my skills with Selenium and Pygame.
+🌱 I’m currently learning advanced automation techniques in Python and expanding my skills with Selenium, Pygame, Playwright, Cypress, and python progamming.
 
 💞️ I’m looking to collaborate on QA projects, automation scripts, and indie game development.
 
@@ -32,7 +32,8 @@ I'm an enthusiastic QA Analyst and aspiring developer crafting my path in the te
 
 🔍 About Me
 
-I’m currently transitioning from IT support to Quality Assurance with a focus on automation. With each project, I blend technical skill with user experience focus, whether it's automating tests on e-commerce platforms like Shopify or optimizing scripts for real-world applications like Weather.
+I’m a Quality Assurance professional with a focus on automation. With each project, I blend technical skill with a user experience focus, whether it's automating tests on e-commerce platforms like Shopify or optimizing scripts for real-world applications like Weather.com.
+
 
 📈 Current Projects
 
